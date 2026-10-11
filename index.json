@@ -1,0 +1,11 @@
+{
+  "org": "sphinx-doc",
+  "repo": "sphinx-argparse",
+  "versions": [
+    {
+      "commit": "32b9a006af6e5308fa20ce41589a62bef45dd068",
+      "tag": "",
+      "parsed_at": "2026-10-11T23:26:40.072143+00:00"
+    }
+  ]
+}
